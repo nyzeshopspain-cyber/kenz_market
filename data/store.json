@@ -1,0 +1,40 @@
+{
+  "guilds": {
+    "1529444802234552340": {
+      "anti_raid": "on",
+      "automod": "on",
+      "insultos": "on",
+      "raid_threshold": 8,
+      "raid_action": "alert"
+    }
+  },
+  "users": {},
+  "invites": {
+    "1529444802234552340": {
+      "2JsgsUs7X": 1,
+      "5gCxBX5Rn": 0,
+      "BEbWsdWdNX": 0,
+      "PAzYRaCJ2": 1,
+      "mEXv2R8Ze": 0,
+      "uddNf7q7r": 1,
+      "wKyqh4zNF": 0
+    }
+  },
+  "tickets": {
+    "1564159589874794568": {
+      "guild": "1529444802234552340",
+      "user": "1305589140271796358",
+      "type": "compra",
+      "createdAt": "2026-10-26T06:11:47.072Z"
+    }
+  },
+  "faqs": {
+    "pagos": "En KENZ MARKET los métodos que se pueden consultar son PayPal y Paysafecard; las criptomonedas solo si el staff las confirma para ese producto. Antes de pagar, confirma importe, destinatario y condiciones en un ticket oficial. Nunca compartas contraseñas ni códigos 2FA.",
+    "compras": "Abre un ticket de compra. El staff confirmará disponibilidad, precio, método de pago y condiciones antes de que pagues.",
+    "ventas": "Abre un ticket de venta y espera a que el staff revise la operación. No publiques datos privados en canales públicos.",
+    "garantia": "Las condiciones de garantía deben confirmarse por escrito en el ticket antes del pago. No se promete una cobertura que no haya confirmado el staff.",
+    "soporte": "Abre un ticket de soporte con una descripción clara y capturas sin datos sensibles. Para decisiones o casos especiales, el staff te responderá."
+  },
+  "coupons": [],
+  "warnings": {}
+}
